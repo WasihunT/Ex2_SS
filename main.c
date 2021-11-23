@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "my_mat.h"
-#include "my_mat.c"
+
 
 int main(){
     char a='A', b='B', c='C';
